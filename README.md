@@ -1,2 +1,2 @@
 # octave
-Music synthesizer
+Music synthesizer. In develop
