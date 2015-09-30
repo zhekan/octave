@@ -1,2 +1,0 @@
-# octave
-Music synthesizer
